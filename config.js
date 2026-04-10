@@ -13,8 +13,8 @@ module.exports = {
   //    Dashboard → API → Copy your Auth Key
   //    Also create a "Flow" for OTP and copy the Template ID
   // ----------------------------------------------------------
-  MSG91_AUTH_KEY:   "PASTE_YOUR_MSG91_AUTH_KEY_HERE",
-  MSG91_TEMPLATE_ID:"PASTE_YOUR_MSG91_OTP_TEMPLATE_ID_HERE",
+  MSG91_AUTH_KEY:   "507688As0J6zlkK69d94776P1",
+  MSG91_TEMPLATE_ID:"6914173165084885304",
   MSG91_SENDER_ID:  "STRKEY",   // 6-char sender name shown on SMS
 
   // ----------------------------------------------------------
@@ -22,8 +22,8 @@ module.exports = {
   //    Sign up free at: https://app.shiprocket.in/register
   //    Use your login email and password below
   // ----------------------------------------------------------
-  SHIPROCKET_EMAIL:    "PASTE_YOUR_SHIPROCKET_EMAIL_HERE",
-  SHIPROCKET_PASSWORD: "PASTE_YOUR_SHIPROCKET_PASSWORD_HERE",
+  SHIPROCKET_EMAIL:    "rajaharsh485@gmail.com",
+  SHIPROCKET_PASSWORD: "Stresskey@2026",
 
   // ----------------------------------------------------------
   // 3. INTERAKT — for WhatsApp order notifications to customers
@@ -37,7 +37,7 @@ module.exports = {
   //    Format: country code + number, no + or spaces
   //    Example for +91 98765 43210 → "919876543210"
   // ----------------------------------------------------------
-  OWNER_WHATSAPP: "919876543210",
+  OWNER_WHATSAPP: "919654989929",
 
   // ----------------------------------------------------------
   // 5. ADMIN PASSWORD — to access your store dashboard
@@ -49,11 +49,11 @@ module.exports = {
   // 6. YOUR STORE DETAILS (used in Shiprocket shipments)
   // ----------------------------------------------------------
   STORE_NAME:    "StressKey",
-  STORE_EMAIL:   "you@youremail.com",
-  STORE_PHONE:   "9876543210",
-  STORE_ADDRESS: "Your Pickup Address Line 1",
-  STORE_CITY:    "Your City",
-  STORE_STATE:   "Your State",
-  STORE_PINCODE: "110001",
+  STORE_EMAIL:   "rajaharsh485@gmail.com",
+  STORE_PHONE:   "9654989929",
+  STORE_ADDRESS: "Gate No 2, Rishihood University, Bhalgarh",
+  STORE_CITY:    "Sonipat",
+  STORE_STATE:   "Haryana",
+  STORE_PINCODE: "131021",
 
 };
